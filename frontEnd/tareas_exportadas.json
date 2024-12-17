@@ -1,0 +1,72 @@
+{
+    "project": [
+        {
+            "id": 1,
+            "title": "Compras Semanales",
+            "details": "Lista de artículos para comprar esta semana",
+            "created_at": "2024-12-16T00:00:00"
+        },
+        {
+            "id": 2,
+            "title": "Hogar",
+            "details": "Pendientes relacionados con la casa",
+            "created_at": "2024-12-16T00:00:00"
+        },
+        {
+            "id": 3,
+            "title": "Desarrollo Web",
+            "details": "Actividades del proyecto web",
+            "created_at": "2024-12-16T00:00:00"
+        }
+    ],
+    "task": [
+        {
+            "id": 1,
+            "name": "Comprar leche",
+            "details": "Leche deslactosada 1L",
+            "is_completed": false,
+            "project_id": 1,
+            "created_at": "2024-12-16T00:00:00"
+        },
+        {
+            "id": 2,
+            "name": "Comprar pan",
+            "details": "Pan integral",
+            "is_completed": false,
+            "project_id": 1,
+            "created_at": "2024-12-16T00:00:00"
+        },
+        {
+            "id": 3,
+            "name": "Limpiar cocina",
+            "details": "Limpiar y ordenar la cocina",
+            "is_completed": false,
+            "project_id": 2,
+            "created_at": "2024-12-16T00:00:00"
+        },
+        {
+            "id": 4,
+            "name": "Lavar ropa",
+            "details": "Lavar ropa de color",
+            "is_completed": true,
+            "project_id": 2,
+            "created_at": "2024-12-16T00:00:00"
+        },
+        {
+            "id": 5,
+            "name": "Crear API",
+            "details": "Desarrollar endpoints REST",
+            "is_completed": false,
+            "project_id": 3,
+            "created_at": "2024-12-16T00:00:00"
+        },
+        {
+            "id": 6,
+            "name": "Testing",
+            "details": "Realizar pruebas unitarias",
+            "is_completed": false,
+            "project_id": 3,
+            "created_at": "2024-12-16T00:00:00"
+        }
+    ]
+}
