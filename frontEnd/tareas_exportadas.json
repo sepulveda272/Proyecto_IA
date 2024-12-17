@@ -1,18 +1,12 @@
 [
     {
-        "id": 1,
-        "title": "trabajosssssssssss",
-        "description": "trabajo para el miercoles (Prueba)",
-        "completed": true
-    },
-    {
-        "id": 2,
+        "id": 3,
         "title": "compras de la semana",
         "description": "comprar pan, leche y huevos",
         "completed": false
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "estudiar matematicas",
         "description": "preparar para el examen de algebra",
         "completed": false
